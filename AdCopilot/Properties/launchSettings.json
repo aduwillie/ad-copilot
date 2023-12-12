@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AdCopilot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OPENAI_KEY": "...",
+        "WEATHER_API_KEY": "..."
+      }
+    }
+  }
+}
